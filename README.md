@@ -24,7 +24,7 @@ First, check out the dotfiles repository in your home directory
 
 ```
 cd ~
-git checkout <repo>
+git checkout https://github.com/axxander/dotfiles
 ```
 
 then move to your `dotfiles` directory and then run GNU stow to create symlinks
