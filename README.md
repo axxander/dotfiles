@@ -12,7 +12,7 @@ Ensure you have the following installed on your system
 brew install git
 ```
 
-### GNU Stow
+### GNU Stow
 
 ```
 brew install stow
